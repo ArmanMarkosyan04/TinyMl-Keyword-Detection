@@ -10,11 +10,11 @@
 
 ### Task Type
 
-[Keyword detection]
+Keyword detection
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
+- **Best Model:** [in Edge Impulse ]
 - **Evaluation Metric:** [ right keyword detection accuracy]
 - **Result:** [>90% average accuracy]
 
