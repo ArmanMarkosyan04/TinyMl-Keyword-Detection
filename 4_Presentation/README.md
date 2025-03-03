@@ -1,3 +1,3 @@
 # Presentation
 
-**[Slides](name_of_your_file_including_the_presentation_slides)**
+**[Slides][Keyword_Recognition_TinyML](https://github.com/user-attachments/files/19049770/Keyword_Recognition_TinyML.pptx)**
